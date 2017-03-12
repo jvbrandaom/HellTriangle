@@ -20,9 +20,17 @@ example = [[6],[3,5],[9,7,1],[4,6,8,4]]
  
 ## Running
 
+You need Python 3.5 or higher in order to run this script
 
+Open terminal and run the following command:
+```
 python HellTriangle.py "[[6],[3,5],[9,7,1],[4,6,8,4]]"
+```
 
 ## Running Tests
 
+Open terminal and run the following command::
+
+```
 python -m unittest -v TestHellTriangle
+```
