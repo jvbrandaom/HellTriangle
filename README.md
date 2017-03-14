@@ -34,3 +34,7 @@ Open terminal and run the following command::
 ```
 python -m unittest -v TestHellTriangle
 ```
+
+##Why Python?
+First of all I'm trying to improve my Python skills since my current main language (the one I use everyday in my job) is Java. 
+Besides that I like the fact that the solution using Python requires only a few lines of code 
